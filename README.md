@@ -1,51 +1,15 @@
-<p align="center">
-  <img src="banner.gif" alt="Danilo Almeida Lopes — Data Science · Backend · Cloud" width="100%"/>
-</p>
+<p align="center"> <img src="banner.gif" alt="Danilo Almeida Lopes — Data Science · Backend · Cloud" width="100%"/> </p> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=py,r,sklearn,pytorch&theme=dark" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter"/> </a> <br/> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,redis,docker,aws,linux,git,github&theme=dark" /> </a> </p>
+👋 About me
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,sklearn,pytorch&theme=dark" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter"/>
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,redis,docker,aws,linux,git,github&theme=dark" />
-  </a>
-</p>
+I'm a Data Science student at [university name] who enjoys turning raw data into insights that drive better decisions. My focus sits at the intersection of data analysis, backend development and cloud: beyond exploring and modeling data, I'm interested in taking those results to production by building APIs, data pipelines and cloud-based solutions.
 
----
+🎓 Pursuing a degree in Data Science — expected graduation: [month/year]
+📊 Hands-on experience with exploratory data analysis, data cleaning and visualization using Python and SQL
+🤖 Studying Machine Learning, from preprocessing to model evaluation
+⚙️ Building APIs with FastAPI and working with relational databases such as PostgreSQL
+☁️ Learning to containerize applications with Docker and deploy services on AWS
+🌱 Currently learning: [technology you're studying right now]
+💼 Open to internship opportunities in Data, Analytics or Backend
+🧠 What I bring to a team
 
-## 👋 Sobre mim
-
-Sou **estudante de Ciência de Dados** na **[nome da faculdade]** e gosto de transformar dados brutos em informação que ajuda a tomar decisões. Meu foco está na interseção entre **análise de dados, backend e cloud**: além de explorar e modelar dados, me interesso por levar esses resultados para produção, construindo APIs, pipelines e soluções que rodam na nuvem.
-
-- 🎓 Cursando **Ciência de Dados** — previsão de conclusão: **[mês/ano]**
-- 📊 Experiência prática com análise exploratória, limpeza e visualização de dados em **Python** e **SQL**
-- 🤖 Estudando **Machine Learning**, do pré-processamento à avaliação de modelos
-- ⚙️ Desenvolvendo APIs com **FastAPI** e bancos de dados relacionais como **PostgreSQL**
-- ☁️ Aprendendo a containerizar aplicações com **Docker** e publicar serviços na **AWS**
-- 🌱 Atualmente aprendendo: **[tecnologia que você está estudando agora]**
-- 💼 **Aberto a oportunidades de estágio** em Dados, Análise ou Backend
-
-### 🧠 O que trago para um time
-Curiosidade para investigar o "porquê" por trás dos números, código organizado e versionado com **Git**, documentação clara dos projetos e facilidade para aprender novas ferramentas rapidamente.
-
----
-
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [**Nome do projeto 1**](https://github.com/DaniloLopes7/) | O problema que resolve e o principal resultado | Python, Pandas |
-| [**Nome do projeto 2**](https://github.com/DaniloLopes7/) | O problema que resolve e o principal resultado | FastAPI, PostgreSQL, Docker |
-
----
-
-## 📫 Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/DaniloLopes7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+Curiosity to dig into the "why" behind the numbers, clean and version-controlled code with Git, clear project documentation, and the ability to pick up new tools quickly.
